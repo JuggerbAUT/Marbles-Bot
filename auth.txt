@@ -1,0 +1,2 @@
+oauth:[get from https://twitchapps.com/tmi/]
+[channel name]

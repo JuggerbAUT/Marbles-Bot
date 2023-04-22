@@ -2,7 +2,7 @@
 
 A marbles on stream bot that chats !play automaticaly if 5 other people wrote !play into the chat. 
 
-#Installation
+# Installation
 
 first you need to make sure you have python 3 installed then run in commandline pip install twitchio
 
